@@ -1,0 +1,15 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  background-color: #bbdefb;
+}
+
+.border-1 {
+  border: 1px solid #999;
+}
+
+.breadcrumb, .alert {
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-left: 2rem;
+}

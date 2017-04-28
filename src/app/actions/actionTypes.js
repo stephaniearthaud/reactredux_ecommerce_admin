@@ -1,0 +1,19 @@
+export const GET_MODELS = 'GET_MODELS';
+export const GET_COLLECTION = 'GET_COLLECTION';
+export const GET_DOCUMENT = 'GET_DOCUMENT';
+export const GET_HISTORY = 'GET_HISTORY';
+export const GET_RELATED = 'GET_RELATED';
+export const UPDATE_DOCUMENT = 'UPDATE_DOCUMENT';
+export const ADD_DOCUMENT = 'ADD_DOCUMENT';
+export const DELETE_DOCUMENT = 'DELETE_DOCUMENT';
+export const HANDLE_ERRORS = 'HANDLE_ERRORS';
+export const CLEAR_COLLECTION = 'CLEAR_COLLECTION';
+export const CLEAR_FORM = 'CLEAR_FORM';
+export const CLEAR_RELATED = 'CLEAR_RELATED';
+export const CLEAR_DOC_HISTORY = 'CLEAR_DOC_HISTORY';
+export const HOLD_DATA = 'HOLD_DATA';
+export const NEW_ALERT = 'NEW_ALERT';
+export const CLEAR_ALERTS = 'CLEAR_ALERTS';
+// AUTHENTICATION
+export const AUTH_USER = 'auth_user';
+export const UNAUTH_USER = 'unauth_user';

@@ -1,0 +1,6 @@
+.tmp/
+.tern-project
+coverage/
+dist/
+node_modules/
+prod/
